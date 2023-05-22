@@ -1,0 +1,15 @@
+
+
+/test/
+/train/
+/obj_det/
+/out/
+/yolo1.zip
+/open.zip
+/submit.csv
+/submit2.csv
+/test.csv
+/model.pt
+/README.dataset.txt
+/README.roboflow.txt
+/sample_submission.csv
